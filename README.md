@@ -39,6 +39,7 @@ Here is an example of creating a segmented control (UISegmentedControl):
 UISegmentedControl *mySegmentedControl = [[UISegmentedControl alloc] init];
 ```
 Here an example of a UISegmentedControl at the top of the iOS Notification Center:
+
 ![](http://i.stack.imgur.com/pWgzT.png)
 
 **UIButton**
@@ -50,4 +51,5 @@ Here is an example of creating a button (UIButton):
 UISegmentedControl *mySegmentedControl = [[UISegmentedControl alloc] init];
 ```
 Here an example of a UIButton with a rounded border:
+
 ![](http://i.stack.imgur.com/Bb3BX.png)
