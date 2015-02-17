@@ -30,6 +30,17 @@ Here an example of a UITextField:
 
 ![](http://kintek.com.au/assets/UILabel_TextView_iOS7.jpg)
 
+**UIButton**
+Buttons allow for basic selection to trigger some kind of event.
+
+Here is an example of creating a button (UIButton):
+
+```objc
+UISegmentedControl *mySegmentedControl = [[UISegmentedControl alloc] init];
+```
+Here an example of a UIButton with a rounded border:
+
+![](http://i.stack.imgur.com/Bb3BX.png)
 
 **UISegmentedControl**
 Segmented controls allow you to select one option out of many. This control is used in many of the iOS core apps including iTunes and the App Store.
@@ -43,14 +54,7 @@ Here an example of a UISegmentedControl at the top of the iOS Notification Cente
 
 ![](http://i.stack.imgur.com/pWgzT.png)
 
-**UIButton**
-Buttons allow for basic selection to trigger some kind of event.
 
-Here is an example of creating a button (UIButton):
+####Other UI Elements
 
-```objc
-UISegmentedControl *mySegmentedControl = [[UISegmentedControl alloc] init];
-```
-Here an example of a UIButton with a rounded border:
-
-![](http://i.stack.imgur.com/Bb3BX.png)
+There are plenty of other UI Elements to use in your app. Open Xcode and experiment for your self!
